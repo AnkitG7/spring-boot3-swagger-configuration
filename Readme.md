@@ -20,4 +20,4 @@ To view the Swagger UI and explore the documented APIs, follow these steps:
 2. Clone this repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/AnkitG7/spring-boot3-swagger-configuration.git)https://github.com/AnkitG7/spring-boot3-swagger-configuration.git
+git clone https://github.com/AnkitG7/spring-boot3-swagger-configuration.git
